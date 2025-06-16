@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multicronómetro Atletismo</string>
+    <string name="export_button_text">Exportar resultados</string>
+    <string name="ultima_vuelta">Última vuelta: --</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="pausar">Pausar</string>
+    <string name="vuelta">Vuelta</string>
+    <string name="reiniciar">Reiniciar</string>
+</resources>
